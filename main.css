@@ -46,11 +46,12 @@ footer {
     position: fixed;
     left: 0;
     bottom: 0;
+    margin-right: 8mm;
 }
 
 .card {
-    border: 2px solid #333;
-    border-radius: 0%;
+    border: 2px dotted #333;
+    border-radius: 20%;
 }
 
 img {
