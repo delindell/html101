@@ -20,6 +20,7 @@ body {
 
 .nav-list {
     color: saddlebrown;
+    justify-content: center;
 }
 
 li {
@@ -58,7 +59,7 @@ footer {
     font-family: monospace;
     margin: 20%;
     background-color: springgreen;
-    
+    ;
 }
 
 img {
@@ -67,4 +68,8 @@ img {
 
 .card:hover {
     background-color: salmon;
+}
+
+header {
+    justify-content: center;
 }
